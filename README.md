@@ -11,6 +11,6 @@ Notes
 
 ## 2. Key Paper
 ----------------------------------------------
-|<sub> Category </sub>|<sub> Name </sub>|<sub> Key Idea </sub>|<sub> Link </sub>|
-|----------------|--------------------------------------------------------------|----------------------|
+| Category | Name | Key Idea | Link |
+|----------------|-------------------------------|-------------------------------|----------------------|
 | Serverless System | SAND: Towards High-Performance Serverless Computing | lighter isolation for different functions under a same application; introduce local message bus|https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SAND%3A+Towards+High-Performance+Serverless+Computing&btnG= |
