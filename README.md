@@ -14,4 +14,5 @@ Notes
 ----------------------------------------------
 | Category | Name | Key Idea |
 |----------------|--------------------------------------------------------------|----------------------|
-| Serverless System | [SAND: Towards High-Performance Serverless Computing](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SAND%3A+Towards+High-Performance+Serverless+Computing&btnG=) | lighter isolation for different functions under a same application; introduce local message bus|
+| Serverless System | [SAND: Towards High-Performance Serverless Computing](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SAND%3A+Towards+High-Performance+Serverless+Computing&btnG=) | - lighter isolation for different functions under a same application;
+- introduce local message bus|
