@@ -12,6 +12,7 @@ Notes
 
 ## 2. Key Paper
 ----------------------------------------------
-| Category | Name | Key Idea |
+| Category | Name | Existing Method/System Challenge| Key Idea |
 |----------------|--------------------------------------------------------------|----------------------|
-| Serverless System | [SAND: Towards High-Performance Serverless Computing](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SAND%3A+Towards+High-Performance+Serverless+Computing&btnG=) | - lighter isolation for different functions under a same application;<br> - introduce local message bus|
+| Serverless System | [SAND: Towards High-Performance Serverless Computing](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SAND%3A+Towards+High-Performance+Serverless+Computing&btnG=) | 1. Long-latency: trade-off between 'cold start' and 'warm start'  <br> 2. Huge overhead Consumption | 1. lighter isolation for different functions under a same application;<br> 2. introduce local message bus|
+|Serverless Machine learning | A Case for Serverless Machine Learning | 
