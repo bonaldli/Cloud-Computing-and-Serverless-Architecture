@@ -30,11 +30,11 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 ### 4.1 Introductionary Examples
 |Platform|Included Functions|Link|
 |--|--|--|
-|AWS|(1) hello<br>(2) palindrome<br>(3) basicmath | [click](https://eu-central-1.console.aws.amazon.com/lambda/home?region=eu-central-1#/functions)
+|AWS|(1) hello<br>(2) palindrome<br>(3) basicmath | [click](https://eu-central-1.console.aws.amazon.com/lambda/home?region=eu-central-1#/functions)|
 
 ### 4.2 Function Flows
 (1) How to define the workflow: [AWS Lambda and Step Function](https://aws.amazon.com/getting-started/tutorials/create-a-serverless-workflow-step-functions-lambda/).
 (2) Workflow Examples: 
 |Name|Workflow|Structure|Platform|link|
 |----|--------|---------|--------|----|
-|one_fourth|numberx0.5x0.5 | |Microfunction|[value="10"](https://sand-1.cloud.brlab.nsn-rdnet.net/workflow/d3275b8e415b5248d347fb7e1f2db1e9/ef7ce47c6321ec7d04b5fdf2fe2ade06/first_half?value=)|
+|one_fourth|numberx0.5x0.5 | |Microfunction| [value="10"](https://sand-1.cloud.brlab.nsn-rdnet.net/workflow/d3275b8e415b5248d347fb7e1f2db1e9/ef7ce47c6321ec7d04b5fdf2fe2ade06/first_half?value=)|
