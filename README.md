@@ -34,6 +34,7 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 
 ### 4.2 Function Flows
 (1) How to define the workflow: [AWS Lambda and Step Function](https://aws.amazon.com/getting-started/tutorials/create-a-serverless-workflow-step-functions-lambda/).
+
 (2) Workflow Examples: 
 
 |Name|Workflow|Structure|Platform|link|
