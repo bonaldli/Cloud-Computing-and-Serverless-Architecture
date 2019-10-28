@@ -38,4 +38,4 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 
 |Name|Workflow|Structure|Platform|link|
 |----|--------|---------|--------|----|
-|one_fourth| numberx0.5x0.5 |none|Microfunction| [value="10"](https://sand-1.cloud.brlab.nsn-rdnet.net/workflow/d3275b8e415b5248d347fb7e1f2db1e9/ef7ce47c6321ec7d04b5fdf2fe2ade06/first_half?value=)|
+|one_fourth| numberx0.5x0.5 |![alt text](https://github.com/bonaldli/Cloud-Computing-and-Serverless-Architecture/blob/master/figs/one_fourth.jpg?raw=true)|Microfunction| [value="10"](https://sand-1.cloud.brlab.nsn-rdnet.net/workflow/d3275b8e415b5248d347fb7e1f2db1e9/ef7ce47c6321ec7d04b5fdf2fe2ade06/first_half?value=)|
