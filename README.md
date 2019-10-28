@@ -30,4 +30,4 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 ### 4.1 Introductionary Examples
 |Platform|Included Functions|Link|
 |--|--|--|
-|AWS|hello<br>palindrome<br>basicmath | [click](https://eu-central-1.console.aws.amazon.com/lambda/home?region=eu-central-1#/functions)
+|AWS|(1) hello<br>(2) palindrome<br>(3) basicmath | [click](https://eu-central-1.console.aws.amazon.com/lambda/home?region=eu-central-1#/functions)
