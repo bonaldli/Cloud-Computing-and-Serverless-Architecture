@@ -25,3 +25,9 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 ## 3. Key Conference Resources
  - [ACT2018](https://www.usenix.org/conference/atc18/technical-sessions)
  - [ACT2019](https://www.usenix.org/conference/atc19/technical-sessions)
+
+## 4. Experiments based on AWS and NOKIA 
+### 4.1 Introductionary Examples
+|Platform|Included Functions|Link|
+|--|--|--|
+|AWS|hello<br>palindrome<br>basicmath | [click](https://eu-central-1.console.aws.amazon.com/lambda/home?region=eu-central-1#/functions)
