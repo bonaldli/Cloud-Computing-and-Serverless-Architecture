@@ -31,3 +31,6 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 |Platform|Included Functions|Link|
 |--|--|--|
 |AWS|(1) hello<br>(2) palindrome<br>(3) basicmath | [click](https://eu-central-1.console.aws.amazon.com/lambda/home?region=eu-central-1#/functions)
+
+### 4.2 Function Flows
+(1) How to define the workflow: [AWS Lambda and Step Function](https://aws.amazon.com/getting-started/tutorials/create-a-serverless-workflow-step-functions-lambda/).
