@@ -43,5 +43,7 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 
 ### 4.3 Reference Articles
 (1) [Content Replication Using AWS Lambda and Amazon S3](https://aws.amazon.com/blogs/compute/content-replication-using-aws-lambda-and-amazon-s3/)
+
 (2) [Passing data between Lambdas with AWS Step Functions](https://medium.com/@tturnbull/passing-data-between-lambdas-with-aws-step-functions-6f8d45f717c3)
+
 (3) [AWS Lambda with Pandas and NumPy](https://medium.com/@korniichuk/lambda-with-pandas-fd81aa2ff25e)
