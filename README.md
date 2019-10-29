@@ -45,3 +45,6 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 (1) [Content Replication Using AWS Lambda and Amazon S3](https://aws.amazon.com/blogs/compute/content-replication-using-aws-lambda-and-amazon-s3/)<br>
 (2) [Passing data between Lambdas with AWS Step Functions](https://medium.com/@tturnbull/passing-data-between-lambdas-with-aws-step-functions-6f8d45f717c3)<br>
 (3) [AWS Lambda with Pandas and NumPy](https://medium.com/@korniichuk/lambda-with-pandas-fd81aa2ff25e)
+
+
+$\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
