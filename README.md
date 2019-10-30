@@ -42,6 +42,10 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 |one_fourth| numberx0.5x0.5 |![alt text](https://github.com/bonaldli/Cloud-Computing-and-Serverless-Architecture/blob/master/figs/one_fourth.jpg?raw=true)|Bell Labs Microfunction| [value="10"](https://sand-1.cloud.brlab.nsn-rdnet.net/workflow/d3275b8e415b5248d347fb7e1f2db1e9/ef7ce47c6321ec7d04b5fdf2fe2ade06/first_half?value=)|
 |data_tansmission| data: data layer--> F1 --> F2 | image | Bell Labs Microfunction | N/A |
 
+### 4.3 Serverless Machine Learning Examples
+| name | mechanism | link |
+| serverless machine learning inference | tba | [medium](https://medium.com/merapar/pure-serverless-machine-learning-inference-with-aws-lambda-and-layers-979702d9ae49) |
+
 ### 4.3 Reference Articles
 (1) [Content Replication Using AWS Lambda and Amazon S3](https://aws.amazon.com/blogs/compute/content-replication-using-aws-lambda-and-amazon-s3/)<br>
 (2) [Passing data between Lambdas with AWS Step Functions](https://medium.com/@tturnbull/passing-data-between-lambdas-with-aws-step-functions-6f8d45f717c3)<br>
