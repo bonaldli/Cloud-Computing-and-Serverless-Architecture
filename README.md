@@ -44,6 +44,7 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 
 ### 4.3 Serverless Machine Learning Examples
 | name | mechanism | link |
+|------|-----------|------|
 | serverless machine learning inference | tba | [medium](https://medium.com/merapar/pure-serverless-machine-learning-inference-with-aws-lambda-and-layers-979702d9ae49) |
 
 ### 4.3 Reference Articles
