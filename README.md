@@ -26,7 +26,7 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
  - [ACT2018](https://www.usenix.org/conference/atc18/technical-sessions)
  - [ACT2019](https://www.usenix.org/conference/atc19/technical-sessions)
 
-## 4. Experiments based on AWS and NOKIA 
+## 4. Experiments based on AWS and Bell Labs 
 ### 4.1 Introductionary Examples
 |Platform|Included Functions|Link|
 |--|--|--|
