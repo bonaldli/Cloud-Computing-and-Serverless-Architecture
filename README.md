@@ -43,9 +43,10 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 |data_tansmission| data: data layer--> F1 --> F2 | image | Bell Labs Microfunction | N/A |
 
 ### 4.3 Serverless Machine Learning Examples
-| name | mechanism | link |
-|------|-----------|------|
-| serverless machine learning inference | tba | [medium](https://medium.com/merapar/pure-serverless-machine-learning-inference-with-aws-lambda-and-layers-979702d9ae49) |
+| name | platform | mechanism | link |
+|------|----------|-----------|------|
+| serverless machine learning inference | AWS | tba | [medium](https://medium.com/merapar/pure-serverless-machine-learning-inference-with-aws-lambda-and-layers-979702d9ae49) |
+| serverless ML training & model | google cloud | tba | [codelabs](https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/index.html?index=..%2F..index#0)|
 
 ### 4.3 Reference Articles
 (1) [Content Replication Using AWS Lambda and Amazon S3](https://aws.amazon.com/blogs/compute/content-replication-using-aws-lambda-and-amazon-s3/)<br>
