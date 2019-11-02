@@ -1,6 +1,8 @@
 # Cloud-Computing-and-Serverless-Architecture
 Notes 
-## 1. Key Conception
+## 1. Key Conception and Platform
+
+### 1.1 Key Conception
 ----------------------------------------------
 | Conception | Definition | Link |
 |----------------|--------------------------------------------------------------|----------------------|
@@ -11,6 +13,17 @@ Notes
 | Pipeline | a set of data processing elements connected in series, where the output of one element is the input of the next one. |[wiki](https://en.wikipedia.org/wiki/Pipeline_(computing)) |
 |Prefetch|Cache prefetching is a technique used by computer processors to boost execution performance by fetching instructions or data from their original storage in slower memory to a faster local memory before it is actually needed (hence the term 'prefetch')|[wiki](https://en.wikipedia.org/wiki/Cache_prefetching)|
 |runtime|can be understood as **'runtime'**: In computer science, run time, runtime or execution time is the time during which a program is running (executing), in contrast to other program lifecycle phases such as compile time, link time and load time.| [wiki](https://en.wikipedia.org/wiki/Run_time_(program_lifecycle_phase))|
+
+### 1.2 Major Platform
+
+#### AWS Lambda
+(1) Key Feature & Facts
+- Can be triggered by different events (e.g. HTTP request)
+- Automatically scaled, stateless, fault-tolerant
+- Basically all you neeed to start is to upload your function code to the cloud (AWS S3 Bucket)
+- Function Code and its dependencies should'd be greater than 250MB (deployment package .zip file)
+- Runs on Amazon Linux OS, inside a runtime container
+- It should be "warmed" - cold start vs. warm start
 
 
 ## 2. Key Paper
