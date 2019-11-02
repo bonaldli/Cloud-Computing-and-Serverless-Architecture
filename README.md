@@ -24,10 +24,11 @@ Notes
 - Function Code and its dependencies should'd be greater than 250MB (deployment package .zip file)
 - Runs on Amazon Linux OS, inside a runtime container
 - It should be "warmed" - cold start vs. warm start
+
 (2) Components
 - **AWS Lambda**: Executes function code
 - **AWS S3**: Stores trained ML Model; Stores Lamnda function code
-_ **Amazon API Gateway**: Accepts HTTP request; Formats HTTP response
+- **Amazon API Gateway**: Accepts HTTP request; Formats HTTP response
 
 
 ## 2. Key Paper
