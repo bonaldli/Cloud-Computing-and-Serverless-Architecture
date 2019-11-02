@@ -29,7 +29,7 @@ Notes
 - **AWS Lambda**: Executes function code
 - **AWS S3**: Stores trained ML Model; Stores Lamnda function code
 - **Amazon API Gateway**: Accepts HTTP request; Formats HTTP response
-
+![alt text](https://github.com/bonaldli/Cloud-Computing-and-Serverless-Architecture/blob/master/figs/AWS%20ML.png)
 
 ## 2. Key Paper
 ----------------------------------------------
