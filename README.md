@@ -66,7 +66,8 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 | serverless machine learning inference | AWS | tba | [medium](https://medium.com/merapar/pure-serverless-machine-learning-inference-with-aws-lambda-and-layers-979702d9ae49) |
 | serverless ML training & model | google cloud | tba | [codelabs](https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/index.html?index=..%2F..index#0)|
 |deep learning model with AWS lambda | AWS | tba | [AWS](https://aws.amazon.com/blogs/machine-learning/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/) |
-| \[Udemy] Deploy Serverless Machine Learning Models to AWS Lambda | AWS | (1) Virtual Box <br> (2) Ubuntu <br> (3)AWS IAM
+| \[Udemy] Deploy Serverless Machine Learning Models to AWS Lambda | AWS | (1) Virtual Box <br> (2) Ubuntu <br> (3)AWS IAM |no|
+| Concurrency | AWS | tba | [amazon](https://aws.amazon.com/blogs/compute/managing-aws-lambda-function-concurrency/)|
 
 ### 4.3 Reference Articles
 (1) [Content Replication Using AWS Lambda and Amazon S3](https://aws.amazon.com/blogs/compute/content-replication-using-aws-lambda-and-amazon-s3/)<br>
