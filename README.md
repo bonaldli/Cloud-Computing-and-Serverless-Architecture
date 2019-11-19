@@ -30,6 +30,7 @@ Notes
 - **AWS S3**: Stores trained ML Model; Stores Lamnda function code
 - **Amazon API Gateway**: Accepts HTTP request; Formats HTTP response
 ![alt text](https://github.com/bonaldli/Cloud-Computing-and-Serverless-Architecture/blob/master/figs/AWS%20ML.png)
+- **Boto3**: Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2.
 
 ## 2. Key Paper
 ----------------------------------------------
