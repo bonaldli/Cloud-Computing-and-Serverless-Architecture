@@ -30,7 +30,7 @@ Notes
 - **AWS S3**: Stores trained ML Model; Stores Lamnda function code
 - **Amazon API Gateway**: Accepts HTTP request; Formats HTTP response
 ![alt text](https://github.com/bonaldli/Cloud-Computing-and-Serverless-Architecture/blob/master/figs/AWS%20ML.png)
-- **Boto3**: Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2.
+- **Boto3**: Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python, which allows Python developers to write software that makes use of services like Amazon S3 and Amazon EC2. [Github](https://github.com/boto/boto3)
 
 ## 2. Key Paper
 ----------------------------------------------
@@ -69,8 +69,16 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 |deep learning model with AWS lambda | AWS | tba | [AWS](https://aws.amazon.com/blogs/machine-learning/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/) |
 | \[Udemy] Deploy Serverless Machine Learning Models to AWS Lambda | AWS | (1) Virtual Box <br> (2) Ubuntu <br> (3)AWS IAM |no|
 | Concurrency | AWS | tba | [amazon](https://aws.amazon.com/blogs/compute/managing-aws-lambda-function-concurrency/)|
+| California Housing Price Prediction | AWS and SAND | locally trained model + inference | tba |
+| NLP Text Contextual Learning | AWS and SAND | locally trained model + inference | tba |
 
-### 4.3 Reference Articles
+### 4.4 Performance Measurement and Profiling
+| Metrics | Explanation | Details |
+| Latency | how long (ms or s) does it take | ```import time``` <br> timestamp = int(time.time()) <br> print(f'it takes {timestamp}') |
+| CPU Info | the hardware provisioning | ```pip install py-cpuinfo # in anaconda prompt, see in [github](https://pypi.org/project/py-cpuinfo/) ```<br> from cpuinfo import get_cpu_info <br> |
+
+
+## Reference Articles
 (1) [Content Replication Using AWS Lambda and Amazon S3](https://aws.amazon.com/blogs/compute/content-replication-using-aws-lambda-and-amazon-s3/)<br>
 (2) [Passing data between Lambdas with AWS Step Functions](https://medium.com/@tturnbull/passing-data-between-lambdas-with-aws-step-functions-6f8d45f717c3)<br>
 (3) [AWS Lambda with Pandas and NumPy](https://medium.com/@korniichuk/lambda-with-pandas-fd81aa2ff25e)
