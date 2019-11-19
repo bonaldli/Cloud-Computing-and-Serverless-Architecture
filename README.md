@@ -54,7 +54,9 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 ### 4.2 Function Flows
 (1) How to define the workflow: [AWS Lambda and Step Function](https://aws.amazon.com/getting-started/tutorials/create-a-serverless-workflow-step-functions-lambda/).
 
-(2) Workflow Examples: 
+(2) The [states](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-states.html) in AWS Step Functions: Pass, Task, Choice, Wait, Succeed, Fail, Parallel, Map
+
+(3) Workflow Examples: 
 
 |Name|Workflow|Structure|Platform|link|
 |----|--------|---------|--------|----|
