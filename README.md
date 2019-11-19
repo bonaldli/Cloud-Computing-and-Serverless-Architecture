@@ -74,8 +74,8 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 
 ### 4.4 Performance Measurement and Profiling
 | Metrics | Explanation | Details |
-| Latency | how long (ms or s) does it take | ```import time``` <br> timestamp = int(time.time()) <br> print(f'it takes {timestamp}') |
-| CPU Info | the hardware provisioning | ```pip install py-cpuinfo # in anaconda prompt, see in [github](https://pypi.org/project/py-cpuinfo/) ```<br> from cpuinfo import get_cpu_info <br> |
+| Latency | how long (ms or s) does it take | ```import time``` <br> ```timestamp = int(time.time())``` <br> print(f'it takes {timestamp}') |
+| CPU Info | the hardware provisioning | pip install py-cpuinfo # in anaconda prompt, see in [github](https://pypi.org/project/py-cpuinfo/) <br> from cpuinfo import get_cpu_info <br> |
 
 
 ## Reference Articles
