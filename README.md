@@ -76,8 +76,8 @@ Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 | Metrics | Explanation | Details |
 |---------|-------------|---------|
 | Latency | how long (ms or s) does it take | ```import time``` <br> ```timestamp = int(time.time())``` <br> ```print(f'it takes {timestamp}')``` |
-| CPU Info | the hardware provisioning | ```pip install py-cpuinfo # in anaconda prompt```, see in [github](https://pypi.org/project/py-cpuinfo/) <br> ```from cpuinfo import get_cpu_info``` <br> ```for key, value in get_cpu_info().items():
-    print("{0}: {1}".format(key, value))```|
+| CPU Info | the hardware provisioning | ```pip install py-cpuinfo # in anaconda prompt```, see in [github](https://pypi.org/project/py-cpuinfo/) <br> ```from cpuinfo import get_cpu_info``` <br> ```for key, value in get_cpu_info().items():```
+```    print("{0}: {1}".format(key, value))```|
 
 
 ## Reference Articles
