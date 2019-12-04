@@ -13,6 +13,8 @@ Notes
 | Pipeline | a set of data processing elements connected in series, where the output of one element is the input of the next one. |[wiki](https://en.wikipedia.org/wiki/Pipeline_(computing)) |
 |Prefetch|Cache prefetching is a technique used by computer processors to boost execution performance by fetching instructions or data from their original storage in slower memory to a faster local memory before it is actually needed (hence the term 'prefetch')|[wiki](https://en.wikipedia.org/wiki/Cache_prefetching)|
 |runtime|can be understood as **'runtime'**: In computer science, run time, runtime or execution time is the time during which a program is running (executing), in contrast to other program lifecycle phases such as compile time, link time and load time.| [wiki](https://en.wikipedia.org/wiki/Run_time_(program_lifecycle_phase))|
+|Frontend Backend | Dabei ist typischerweise das Front-End näher am Benutzer, das Back-End näher am System. In manchen Fällen ist diese Interpretation nicht anwendbar, es gilt aber prinzipiell, dass das Front-End näher an der Eingabe und das Back-End näher an der Verarbeitung ist.| [wiki](https://de.wikipedia.org/wiki/Front-End_und_Back-End)|
+
 
 ### 1.2 Major Platform
 
