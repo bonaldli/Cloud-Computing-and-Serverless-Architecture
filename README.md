@@ -40,7 +40,9 @@ Notes
 |----------------|-----------------------------------------|---------------------|----------------------|
 | Serverless System | [SAND: Towards High-Performance Serverless Computing](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SAND%3A+Towards+High-Performance+Serverless+Computing&btnG=) | 1. Long-latency: trade-off between 'cold start' and 'warm start'  <br> 2. Huge overhead Consumption | 1. lighter isolation for different functions under a same application;<br> 2. introduce local message bus|
 |Serverless Machine learning | A Case for Serverless Machine Learning | wait | wait|
-|Serverless Machine Learning (Inference) | [MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving](https://www.cse.ust.hk/~weiwa/papers/mark-atc19.pdf)| Provision for inference (perform in real-time on dynamic queries), hard yo actualize low-latency, cost-effective inference at scale| IaaS (High performance-cost ratio) for predictive work load, FaaS (High Scalability) for unpredicted load spikes|
+|+ (Inference) | [MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving](https://www.cse.ust.hk/~weiwa/papers/mark-atc19.pdf)| Provision for inference (perform in real-time on dynamic queries), hard yo actualize low-latency, cost-effective inference at scale| IaaS (High performance-cost ratio) for predictive work load, FaaS (High Scalability) for unpredicted load spikes|
+|+ (Training) |[Cirrus: a Serverless Framework for End-to-end ML Workflows](http://delivery.acm.org/10.1145/3370000/3362711/p13-Carreira.pdf?ip=131.228.32.167&id=3362711&acc=OPEN&key=7A913D839C867B0E%2E69453F3E8B455983%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1575907455_17716f55eb028134d57433efaff14d1f) | Optimization in Data store|
+
 -------------------------------
 Paper Mindmap: http://www.xmind.net/m/ZDEpEa
 ## 3. Key Conference Resources
